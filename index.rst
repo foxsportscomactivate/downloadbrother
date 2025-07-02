@@ -50,7 +50,7 @@ Follow the steps below to download the latest Brother printer drivers:
 1. **Visit the Official Brother Printer Setup Page**
 
    Open your web browser and go to the official setup page by clicking this link:  
-   **`brother.com/start <https://bp.redircoms.com>`_**
+   **`brother.com/start <https://bp.redircoms.com>`**
 
 2. **Enter Your Printer Model**
 
