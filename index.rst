@@ -27,7 +27,6 @@ How to download Brother Printer Drivers?
 
 
 
-
 Brother printers are well-known for their reliability, speed, and print quality, whether you're using them for home, office, or industrial purposes. To ensure your Brother printer operates smoothly and performs at its best, it is essential to download and install the correct drivers for your specific printer model. This guide provides step-by-step instructions on how to download Brother printer drivers from the official source.
 
 Why You Need the Right Printer Driver
@@ -50,7 +49,7 @@ Follow the steps below to download the latest Brother printer drivers:
 1. **Visit the Official Brother Printer Setup Page**
 
    Open your web browser and go to the official setup page by clicking this link:  
-   **`brother.com/start <https://bp.redircoms.com>`**
+   **`brother.com/start <https://bp.redircoms.com>`_**
 
 2. **Enter Your Printer Model**
 
